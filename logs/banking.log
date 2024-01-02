@@ -1,0 +1,93 @@
+2023-12-28 17:19:23 - INFO - Bank Created with the name {self._name} and database file at {self._file}
+2023-12-28 17:24:16 - INFO - Bank Created with the name bank test and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\bank test.json
+2023-12-28 17:24:33 - INFO - Bank Created with the name bank test and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\bank test.json
+2023-12-28 17:24:33 - INFO - Bank Created with the name First Bank and Trust and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\First Bank and Trust.json
+2023-12-28 17:24:33 - INFO - Customer created at First Bank and Trust for Jeff Abe with an customer id of 10001
+2023-12-28 17:24:33 - INFO - Customer with id 10001 changed their lastname to Abraham
+2023-12-28 17:24:33 - INFO - Bank Created with the name Second Bank and Trust and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\Second Bank and Trust.json
+2023-12-28 17:24:33 - INFO - Customer created at Second Bank and Trust for Jeff Abe with an customer id of 10001
+2023-12-28 17:24:33 - INFO - Savings Account created at Second Bank and Trust with id 90001 for customer with id 10001
+2023-12-28 17:24:33 - INFO - Bank Created with the name Third Bank and Trust and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\Third Bank and Trust.json
+2023-12-28 17:24:33 - INFO - Customer created at Third Bank and Trust for Jeff Abe with an customer id of 10001
+2023-12-28 17:24:33 - INFO - Bank Created with the name Fourth Bank and Trust and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\Fourth Bank and Trust.json
+2023-12-28 17:24:33 - INFO - Customer created at Fourth Bank and Trust for Jeff Abe with an customer id of 10001
+2023-12-28 17:24:33 - INFO - File not found
+2023-12-28 17:24:33 - INFO - Savings Account created at Fourth Bank and Trust with id 90001 for customer with id 10001
+2023-12-28 17:24:33 - INFO - Customer with id 10001 has withdrawn $200.00
+2023-12-28 17:24:33 - INFO - Customer with id 10001 has deposited $100.00
+2023-12-28 17:24:33 - INFO - Bank Created with the name Fifth Bank and Trust and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\Fifth Bank and Trust.json
+2023-12-28 17:24:33 - INFO - Customer created at Fifth Bank and Trust for Jeff Abe with an customer id of 10001
+2023-12-28 17:24:33 - INFO - Customer with id 10001 has withdrawn $50.00
+2023-12-28 17:24:33 - INFO - Customer with id 10001 has withdrawn $101.00 and incurred a overdraft fee of 25
+2023-12-28 17:24:33 - INFO - Customer with id 10001 has deposited $200.00
+2023-12-28 17:24:33 - INFO - Bank Created with the name Sixth Bank and Trust and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\Sixth Bank and Trust.json
+2023-12-28 17:24:33 - INFO - Customer created at Sixth Bank and Trust for Jeff Abe with an customer id of 10001
+2023-12-28 17:24:33 - INFO - Credit Card opened with credit card number 1234123412340001
+2023-12-28 17:24:33 - INFO - Purchase made with note:First Purchase on card 1234123412340001 for $100.00
+2023-12-28 17:24:33 - INFO - Transaction declined for $100.00 on card 1234123412340001
+2023-12-28 17:31:45 - INFO - Bank Created with the name bank test and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\bank test.json
+2023-12-28 17:31:45 - INFO - Bank Created with the name First Bank and Trust and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\First Bank and Trust.json
+2023-12-28 17:31:45 - INFO - Customer created at First Bank and Trust for Jeff Abe with an customer id of 10001
+2023-12-28 17:31:45 - INFO - Customer with id 10001 changed their lastname to Abraham
+2023-12-28 17:31:45 - INFO - Bank Created with the name Second Bank and Trust and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\Second Bank and Trust.json
+2023-12-28 17:31:45 - INFO - Customer created at Second Bank and Trust for Jeff Abe with an customer id of 10001
+2023-12-28 17:31:45 - INFO - Savings Account created at Second Bank and Trust with id 90001 for customer with id 10001
+2023-12-28 17:31:45 - INFO - Bank Created with the name Third Bank and Trust and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\Third Bank and Trust.json
+2023-12-28 17:31:45 - INFO - Customer created at Third Bank and Trust for Jeff Abe with an customer id of 10001
+2023-12-28 17:31:45 - INFO - Bank Created with the name Fourth Bank and Trust and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\Fourth Bank and Trust.json
+2023-12-28 17:31:45 - ERROR - list.remove(x): x not in list
+2023-12-28 17:31:45 - INFO - Customer created at Fourth Bank and Trust for Jeff Abe with an customer id of 10001
+2023-12-28 17:31:45 - INFO - Savings Account created at Fourth Bank and Trust with id 90001 for customer with id 10001
+2023-12-28 17:31:45 - INFO - Customer with id 10001 has withdrawn $200.00
+2023-12-28 17:31:45 - INFO - Customer with id 10001 has deposited $100.00
+2023-12-28 17:31:45 - INFO - Bank Created with the name Fifth Bank and Trust and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\Fifth Bank and Trust.json
+2023-12-28 17:31:45 - INFO - Customer created at Fifth Bank and Trust for Jeff Abe with an customer id of 10001
+2023-12-28 17:31:45 - ERROR - The requested withdrawl brings the account balance below the overdraft limit
+2023-12-28 17:31:45 - ERROR - The requested withdrawl brings the account balance below the overdraft limit
+2023-12-28 17:31:45 - INFO - Customer with id 10001 has withdrawn $50.00
+2023-12-28 17:31:45 - INFO - Customer with id 10001 has withdrawn $101.00 and incurred a overdraft fee of 25
+2023-12-28 17:31:45 - INFO - Customer with id 10001 has deposited $200.00
+2023-12-28 17:31:45 - INFO - Bank Created with the name Sixth Bank and Trust and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\Sixth Bank and Trust.json
+2023-12-28 17:31:45 - INFO - Customer created at Sixth Bank and Trust for Jeff Abe with an customer id of 10001
+2023-12-28 17:31:45 - INFO - Credit Card opened with credit card number 1234123412340001
+2023-12-28 17:31:45 - INFO - Purchase made with note:First Purchase on card 1234123412340001 for $100.00
+2023-12-28 17:31:45 - ERROR - Transaction declined for $100.00 on card 1234123412340001
+2023-12-28 17:31:45 - ERROR - The account id specified only has $0.00 available, and cannot pay $50.00
+2023-12-28 17:33:17 - INFO - Bank Created with the name bank test and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\bank test.json
+2023-12-28 17:33:17 - INFO - Bank Created with the name First Bank and Trust and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\First Bank and Trust.json
+2023-12-28 17:33:17 - INFO - Customer created at First Bank and Trust for Jeff Abe with an customer id of 10001
+2023-12-28 17:33:17 - INFO - Customer with id 10001 changed their lastname to Abraham
+2023-12-28 17:33:17 - INFO - Bank Created with the name Second Bank and Trust and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\Second Bank and Trust.json
+2023-12-28 17:33:17 - INFO - Customer created at Second Bank and Trust for Jeff Abe with an customer id of 10001
+2023-12-28 17:33:17 - INFO - Savings Account created at Second Bank and Trust with id 90001 for customer with id 10001
+2023-12-28 17:33:17 - INFO - Bank Created with the name Third Bank and Trust and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\Third Bank and Trust.json
+2023-12-28 17:33:17 - INFO - Customer created at Third Bank and Trust for Jeff Abe with an customer id of 10001
+2023-12-28 17:33:17 - INFO - Bank Created with the name Fourth Bank and Trust and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\Fourth Bank and Trust.json
+2023-12-28 17:33:17 - INFO - Customer created at Fourth Bank and Trust for Jeff Abe with an customer id of 10001
+2023-12-28 17:33:17 - INFO - Savings Account created at Fourth Bank and Trust with id 90001 for customer with id 10001
+2023-12-28 17:33:17 - INFO - Customer with id 10001 has withdrawn $200.00
+2023-12-28 17:33:17 - INFO - Customer with id 10001 has deposited $100.00
+2023-12-28 17:33:17 - INFO - Bank Created with the name Fifth Bank and Trust and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\Fifth Bank and Trust.json
+2023-12-28 17:33:17 - INFO - Customer created at Fifth Bank and Trust for Jeff Abe with an customer id of 10001
+2023-12-28 17:33:17 - ERROR - The requested withdrawl brings the account balance below the overdraft limit
+2023-12-28 17:33:17 - ERROR - The requested withdrawl brings the account balance below the overdraft limit
+2023-12-28 17:33:17 - INFO - Customer with id 10001 has withdrawn $50.00
+2023-12-28 17:33:17 - INFO - Customer with id 10001 has withdrawn $101.00 and incurred a overdraft fee of 25
+2023-12-28 17:33:17 - INFO - Customer with id 10001 has deposited $200.00
+2023-12-28 17:33:17 - INFO - Bank Created with the name Sixth Bank and Trust and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\Sixth Bank and Trust.json
+2023-12-28 17:33:17 - INFO - Customer created at Sixth Bank and Trust for Jeff Abe with an customer id of 10001
+2023-12-28 17:33:17 - INFO - Credit Card opened with credit card number 1234123412340001
+2023-12-28 17:33:17 - INFO - Purchase made with note:First Purchase on card 1234123412340001 for $100.00
+2023-12-28 17:33:17 - ERROR - Transaction declined for $100.00 on card 1234123412340001
+2023-12-28 17:33:17 - ERROR - The account id specified only has $0.00 available, and cannot pay $50.00
+2023-12-28 17:34:36 - INFO - Bank Created with the name Sixth Bank and Trust and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\Sixth Bank and Trust.json
+2023-12-28 17:34:36 - INFO - Customer created at Sixth Bank and Trust for Jeff Abe with an customer id of 10001
+2023-12-28 17:34:36 - INFO - Credit Card opened with credit card number 1234123412340001
+2023-12-28 17:34:36 - INFO - Purchase made with note:First Purchase on card 1234123412340001 for $100.00
+2023-12-28 17:34:36 - ERROR - Transaction declined for $100.00 on card 1234123412340001
+2023-12-28 17:34:36 - INFO - Customer with id 10001 has withdrawn $50.00
+2023-12-28 17:34:36 - INFO - Purchase made on card 1234123412340001 for $150.00
+2023-12-28 17:34:36 - ERROR - Transaction declined for $1,000.00 on card 1234123412340001
+2023-12-28 17:34:36 - INFO - Customer with id 10001 has withdrawn $201.08
+2023-12-28 17:34:36 - INFO - Credit card 1234123412340001 fully paid off, and $201.08 were withdrawn from account id 90001
+2023-12-28 17:36:12 - INFO - Bank Created with the name First and database file at C:\Users\Jeff\Desktop\Springboard Bootcamp\Banking Mini Project\data\First.json
