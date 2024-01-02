@@ -14,3 +14,54 @@ This is the first project completed for a springboard Data Engineering Bootcamp.
 ## Design
 
 The modules were designed to contain an object for each Bank, Customer, Account, and CreditCard. For each of these objects, a list of objects was created as a class variable to hold each instance of the class. These were used to more easily use the classes together. Each object type has a list of dictionaries in the json file for its values, with each bank having its own json file. The modification of the attributes in each class object are reflected in the json file.
+
+
+## Example Usage
+
+```python console
+#Create a Bank Object
+bank = Bank('Sixth Bank and Trust')
+bank_name = bank.name
+
+#Create a Customer Object
+Jeff = Customer(bank_name, 123456789, 'Jeff', 'Abe', '1234 Main st')
+
+#Create a CheckingAccount Object
+JeffsChecking = CheckingAccount(bank_name,Jeff.customer_id, 1000)
+
+#Create a CreditCard Object
+JeffsCard = CreditCard(bank_name, Jeff._customer_id)
+
+#Spending on the Credit Card
+JeffsCard.spend(100, JeffsCard.cvv,note='First Purchase')
+JeffsCard.spend(100, JeffsCard.cvv+1)
+
+#Paying off Credit Card
+JeffsCard.pay(JeffsChecking.account_id,50)
+
+print(JeffsCard.statement_balance)
+print(JeffsCard.current_balance)
+
+#Bank moves to the next month
+bank.next_month()
+
+print(JeffsCard.statement_balance)
+print(JeffsCard.current_balance)
+
+#More Spending
+JeffsCard.spend(150, JeffsCard.cvv)
+
+#Bank moves to the next month
+bank.next_month()
+
+print(JeffsCard.statement_balance)
+print(JeffsCard.current_balance)
+
+JeffsCard.pay(JeffsChecking.account_id,500)
+
+bank.next_month()
+
+print(JeffsCard.statement_balance)
+print(JeffsCard.current_balance)
+
+```
